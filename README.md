@@ -70,3 +70,8 @@
 | httpserver | https://github.com/Arceos-crates/httpserver.git | HTTP服务器模块                  |
 | udpserver  | https://github.com/Arceos-crates/udpserver.git  | UDP服务器模块                   |
 | shell      | https://github.com/Arceos-crates/shell.git      | 命令行Shell模块                 |
+| parallel   | https://github.com/Arceos-crates/parallel.git   | 并行处理模块                    |
+| priority   | https://github.com/Arceos-crates/priority.git   | 优先级管理模块                  |
+| sleep      | https://github.com/Arceos-crates/sleep.git      | 睡眠管理模块                    |
+| tls        | https://github.com/Arceos-crates/tls.git        | TLS协议支持模块                 |
+| yield      | https://github.com/Arceos-crates/yield.git      | CPU让渡模块                     |
